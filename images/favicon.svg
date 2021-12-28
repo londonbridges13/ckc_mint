@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFCA0E" x="0" y="0" width="32" height="32"></rect>
+        <path d="M16.94,23.36 C20.28,23.36 22.28,21.74 22.28,19.04 C22.28,17.52 21.46,16.46 20,15.84 C21.2,15.12 21.86,14.14 21.86,12.88 C21.86,10.38 19.9,9 16.76,9 L11,9 L11,23.36 L16.94,23.36 Z M16.46,14.46 L14.42,14.46 L14.42,11.98 L16.46,11.98 C17.72,11.98 18.3,12.46 18.3,13.2 C18.3,13.98 17.72,14.46 16.46,14.46 Z M16.64,20.38 L14.42,20.38 L14.42,17.44 L16.64,17.44 C18.06,17.44 18.72,18.02 18.72,18.9 C18.72,19.82 18.06,20.38 16.64,20.38 Z" id="B" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
